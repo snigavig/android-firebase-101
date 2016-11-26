@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Firebase 101</string>
+    <string name="title_activity_main">@string/app_name</string>
+    <string name="add">Add</string>
+    <string name="close">Close</string>
+    <string name="name">Name:</string>
+    <string name="description">Description:</string>
+</resources>
